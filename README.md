@@ -31,6 +31,6 @@
   
   </head>
   <body>
-     <img src="" alt="gameplay_icon" />
+     <img src="https://github.com/41243235/QT_final/blob/main/f9198618367adab44aed6460208ca41c8701a18b4ec5.webp" alt="gameplay_icon" />
   </body>
 </html>
