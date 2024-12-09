@@ -27,11 +27,10 @@
 <html
   <head>
     <meta charset="utf-8" />
-  <title>QT_FINAL</title>
+
+  
   </head>
   <body>
      <img src="" alt="gameplay_icon" />
   </body>
 </html>
-
-QT_final
