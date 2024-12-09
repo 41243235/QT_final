@@ -40,8 +40,8 @@
               </ul>      
         <h5>連線</h5>
               <ul>
-                    <li>單機</li>
-                    <li>多人連機</li>
+                    <li>人機遊玩</li>
+                    <li>雙人連機</li>
                     <p>socket</p>
               </ul>
     https://baike.baidu.com/item/雙人簡易彈球/3161581
