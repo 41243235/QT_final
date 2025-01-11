@@ -14,6 +14,12 @@ final 新檔案 尚未完成
 
 檔案操作:陳佳源
 
+問題:
+介面與遊戲主體合併
+連線設定、資料傳輸、接收
+球的運行
+道具製作
+AI製作
 
 參考資料:
 https://www.youtube.com/watch?v=8ntEQpg7gck&list=PLyb40eoxkelOa5xCB9fvGrkoBf8JzEwtV
